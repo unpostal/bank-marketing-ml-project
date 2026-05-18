@@ -157,3 +157,5 @@ Then explain:
 - Try XGBoost or LightGBM.
 - Remove `duration` and test a more realistic pre-call prediction model.
 - Use SHAP values for deeper model interpretation.
+
+# easter egg
